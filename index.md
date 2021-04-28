@@ -1,5 +1,5 @@
 # Action Camera Market Report 2021
-# DJI, Gopro, Insta360
+DJI, Gopro, Insta360
 
 You can use the [editor on GitHub](https://github.com/zioho/marketing-report/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
