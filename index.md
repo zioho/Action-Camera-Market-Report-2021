@@ -1,4 +1,4 @@
-# DJI, Gopro, Insta360
+# DJI, GoPro, Insta360
 
 COMM5631 Digital Humanities - Group 6
 <br />HO Siu Wa 1155134419
