@@ -1,4 +1,4 @@
-# Action Camera Market Report 2021 - DJI, Gopro, Insta360
+# DJI, Gopro, Insta360
 
 COMM5631 Digital Humanities - Group 6
 <br />HO Siu Wa 1155134419
@@ -83,6 +83,12 @@ Beafitul views |  | UGC of wondeful shot
 
 ---
 
+  <style>
+    body {
+      color:#151E3D;
+      text-align:center;
+ }
+  </style>
 You can use the [editor on GitHub](https://github.com/zioho/marketing-report/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
