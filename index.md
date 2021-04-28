@@ -85,7 +85,7 @@ Beafitul views |  | UGC of wondeful shot
 
   <style>
     body {
-      color:#44496D;
+      color:#002366;
       text-align:center;
  }
   </style>
