@@ -57,6 +57,7 @@ With the advancement of electronic technology, more people use electronic equipm
 - 21,641,683 views
 
 ## GoPro : Active in social medias, followed by DJI & Insta 360
+```markdown
 **Total Facebook post scrapped (17,291)**
 <br />GoPro - 12K | 	DJI - 2K | 	Insta360 - 2K
 
@@ -68,6 +69,7 @@ With the advancement of electronic technology, more people use electronic equipm
 
 **Number of comments from YouTube - Including words(48,774)**
 <br />GoPro - 18K | DJI - 17K | Insta360 - 12K
+```
 
 ## GoPro: most engaging one, followed by DJI&Insta 360
 ## LIKE: mostly used by audience to rate the post
