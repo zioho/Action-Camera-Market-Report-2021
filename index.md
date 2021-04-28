@@ -56,7 +56,8 @@ With the advancement of electronic technology, more people use electronic equipm
 - 286000 subscribers with 623 videos(displayed)
 - 21,641,683 views
 
-- - -    
+- - - 
+  
 ____
 1C Enterprise:
 <br />
