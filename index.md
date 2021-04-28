@@ -59,7 +59,7 @@ With the advancement of electronic technology, more people use electronic equipm
 ## GoPro : Active in social medias, followed by DJI & Insta 360
 ```markdown
 **Total Facebook post scrapped (17,291)**
-GoPro - 12K | 	DJI - 2K | 	Insta360 - 2K
+GoPro - 12K | DJI - 2K |	Insta360 - 2K
 
 **Total YouTube video scrapped (3,399)**
 GoPro - 1k | DJI - 1k | Insta360 - 0.5k
@@ -109,16 +109,7 @@ GoPro - 18K | DJI - 17K | Insta360 - 12K
 - - - 
   
 ____
-1C Enterprise:
-<br />
-  type: programming
-  color: "#814CCC"
-  extensions:
-  - ".bsl"
-  - ".os"
-  tm_scope: source.bsl
-  ace_mode: text
-  language_id: 0
+
 
 
 
