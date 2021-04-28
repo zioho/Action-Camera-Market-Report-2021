@@ -56,6 +56,54 @@ With the advancement of electronic technology, more people use electronic equipm
 - 286000 subscribers with 623 videos(displayed)
 - 21,641,683 views
 
+## GoPro : Active in social medias, followed by DJI & Insta 360
+**Total Facebook post scrapped (17,291)**
+<br />GoPro - 12K | 	DJI - 2K | 	Insta360 - 2K
+
+**Total YouTube video scrapped (3,399)**
+<br />GoPro - 1k | DJI - 1k | Insta360 - 0.5k
+
+**Number of comments from Facebook  - Including words(567,691)**
+<br />GoPro - 430K | DJI - 105K | Insta360 - 31K
+
+**Number of comments from YouTube - Including words(48,774)**
+<br />GoPro - 18K | DJI - 17K | Insta360 - 12K
+
+## GoPro: most engaging one, followed by DJI&Insta 360
+## LIKE: mostly used by audience to rate the post
+## Hot topics: hot models, UGC shots & KOL opinions
+
+**GoPro** 
+<br />
+- Announcement of GoPro HERO3
+- UGC of sporting 
+- Beafitul views 
+
+**DJI**
+<br />
+- Hot models: FPV, Poket2, Mavic
+- KOL opinions
+
+**Insta360**
+<br />
+- Hot models: series of 360 ONE
+- Useful gadgets
+ -UGC of wondeful shot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - - - 
   
 ____
