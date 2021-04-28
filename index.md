@@ -15,7 +15,7 @@ With the advancement of electronic technology, more people use electronic equipm
 
 **This project aims to observe the degree of online discussion of this three brands in Facebook and Youtube to explore their trends and influence.**
 
->The platforms we use
+### The platforms we use
 
 **YouTube**  
 - an online video platform 
