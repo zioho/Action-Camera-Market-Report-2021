@@ -27,7 +27,37 @@ With the advancement of electronic technology, more people use electronic equipm
 - seventh in global internet usage (Alexa)
 - posts,comments,likes,reactions available
 
+### The brands information
+
+#### GoPro ####
+**Facebook (Since Feb 11, 2009)**
+- 10,863,771 people liked
+- 10,956,572 people followed
+
+**YouTube (Since Mar 11, 2009)**
+- 1.3 Million subscribers with 1677 videos(displayed)
+- 2,979,189,478 views 
+
+#### DJI ####
+**Facebook (Since Sep 14, 2016)**
+- 4,945,341 people liked
+- 4,952,084 people followed
+
+**YouTube (Since Jun 6, 2010)**
+- 1.2 Million subscribers with 1245 videos(displayed)
+- 360,525,118 views 
+
+#### Insta360 ####
+**Facebook (Since Oct 25, 2017)**
+- 243,777 people liked
+- 245,468 people followed
+
+**YouTube (Since Oct 8, 2015)**
+- 286000 subscribers with 623 videos(displayed)
+- 21,641,683 views
+- 
 - - -    
+____
 1C Enterprise:
 <br />
   type: programming
