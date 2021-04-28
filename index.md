@@ -75,32 +75,13 @@ GoPro - 18K | DJI - 17K | Insta360 - 12K
 ## LIKE: mostly used by audience to rate the post
 ## Hot topics: hot models, UGC shots & KOL opinions
 
-
-
 GoPro | DJI | Insta360
 ----- | --- | --------
 Announcement of GoPro HERO3 | Hot models: FPV, Poket2, Mavic | Hot models: series of 360 ONE
 UGC of sporting | KOL opinions | Useful gadgets
 Beafitul views |  | UGC of wondeful shot
 
-
-
-
-
-
-
-
-
-
-
-
-- - - 
-  
-____
-
-
-
-
+---
 
 You can use the [editor on GitHub](https://github.com/zioho/marketing-report/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
