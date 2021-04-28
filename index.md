@@ -59,7 +59,7 @@ With the advancement of electronic technology, more people use electronic equipm
 ## GoPro : Active in social medias, followed by DJI & Insta 360
 ```markdown
 **Total Facebook post scrapped (17,291)**
-GoPro - 12K | DJI - 2K |	Insta360 - 2K
+GoPro - 12K | DJI - 2K | Insta360 - 2K
 
 **Total YouTube video scrapped (3,399)**
 GoPro - 1k | DJI - 1k | Insta360 - 0.5k
@@ -75,25 +75,13 @@ GoPro - 18K | DJI - 17K | Insta360 - 12K
 ## LIKE: mostly used by audience to rate the post
 ## Hot topics: hot models, UGC shots & KOL opinions
 
-**GoPro** 
-<br />
-- Announcement of GoPro HERO3
-- UGC of sporting 
-- Beafitul views 
-
-**DJI**
-<br />
-- Hot models: FPV, Poket2, Mavic
-- KOL opinions
-
-**Insta360**
-<br />
-- Hot models: series of 360 ONE
-- Useful gadgets
- -UGC of wondeful shot
 
 
-
+GoPro | DJI | Insta360
+----- | --- | --------
+Announcement of GoPro HERO3 | Hot models: FPV, Poket2, Mavic | Hot models: series of 360 ONE
+UGC of sporting | KOL opinions | Useful gadgets
+Beafitul views |  | UGC of wondeful shot
 
 
 
