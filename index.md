@@ -7,14 +7,27 @@ COMM5631 Digital Humanities - Group 6
 - KWAN Ching Hin Eugenea 1155134777
 - ZHANG Zijun 1155145623
 
-
+---
 
 ## Project Background
 
 With the advancement of electronic technology, more people use electronic equipment for photo shooting. In addition to cameras, the demand of action cameras has also increased significantly.
 
 **This project aims to observe the degree of online discussion of this three brands in Facebook and Youtube to explore their trends and influence.**
-    
+
+>The platforms we use
+
+**YouTube**  
+- an online video platform 
+- the second most-visited website in the world (Alexa)
+- comments, likes available
+
+**Facebook**
+- an online social media platform
+- seventh in global internet usage (Alexa)
+- posts,comments,likes,reactions available
+
+- - -    
 1C Enterprise:
   type: programming
   color: "#814CCC"
