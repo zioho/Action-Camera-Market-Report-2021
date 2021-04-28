@@ -1,11 +1,11 @@
 # Action Camera Market Report 2021 - DJI, Gopro, Insta360
 
-### COMM5631 Digital Humanities - Group 6
-### HO Siu Wa 1155134419
-### HUANG Shiyun Grace 1155131726
-### LONG Xinyu 1155148569
-### KWAN Ching Hin Eugenea 1155134777
-### ZHANG Zijun 1155145623
+COMM5631 Digital Humanities - Group 6
+ HO Siu Wa 1155134419
+ HUANG Shiyun Grace 1155131726
+ LONG Xinyu 1155148569
+ KWAN Ching Hin Eugenea 1155134777
+ ZHANG Zijun 1155145623
 
 You can use the [editor on GitHub](https://github.com/zioho/marketing-report/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
